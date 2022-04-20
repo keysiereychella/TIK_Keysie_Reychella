@@ -34,7 +34,7 @@ int main()
     
     if (a <= 100 || b <=100 || c <= 100){
         d= a * 0.3 + b * 0.3 + c * 0.4;
-    cout<<d<<endl;\
+    cout<<d<<endl;
     
     }
     
